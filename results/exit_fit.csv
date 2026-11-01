@@ -1,0 +1,11 @@
+test,statistic,value
+"Geometric law (model), calibrated on 1-4 and 5-9 employee firms",employees per halving of the death rate,4.1102
+"Geometric law (model), least squares on all classes",rmse of log death rate,0.5807
+"Power law, least squares on all classes",elasticity of death rate to employment,-0.4793
+"Power law, least squares on all classes",rmse of log death rate,0.2434
+Size classes with positive death rate,count,8.0000
+Age effect within size class 1 to 4 employees,death rate at age 1 / death rate at age 26+,2.4945
+Age effect within size class 10 to 19 employees,death rate at age 1 / death rate at age 26+,4.2068
+Age effect within size class 100 to 499 employees,death rate at age 1 / death rate at age 26+,7.1776
+Age effect within size class 20 to 99 employees,death rate at age 1 / death rate at age 26+,4.4996
+Age effect within size class 5 to 9 employees,death rate at age 1 / death rate at age 26+,3.7372

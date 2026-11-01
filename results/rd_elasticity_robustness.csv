@@ -1,0 +1,10 @@
+sample,model_value,estimate,std_error,ci_low,ci_high,t_vs_model,n_obs,n_firms
+"All industries, revenue at least $1M",1.0000,0.7207,0.0117,0.6977,0.7436,-23.8977,18632,2831
+"All industries, revenue at least $10M",1.0000,0.8015,0.0130,0.7760,0.8270,-15.2513,15707,2356
+"All industries, revenue at least $100M",1.0000,0.8658,0.0187,0.8292,0.9025,-7.1741,10480,1532
+"All industries, revenue at least $1,000M",1.0000,0.9697,0.0372,0.8969,1.0425,-0.8151,4294,585
+Drugs and chemicals (SIC 28),1.0000,0.6512,0.0306,0.5912,0.7112,-11.3950,3339,616
+Machinery and computers (SIC 35),1.0000,0.8739,0.0272,0.8205,0.9272,-4.6354,1353,165
+Electronics and chips (SIC 36),1.0000,0.8330,0.0439,0.7471,0.9190,-3.8083,2407,325
+Instruments and medical devices (SIC 38),1.0000,0.8228,0.0242,0.7753,0.8703,-7.3077,2505,330
+Software and IT services (SIC 737),1.0000,0.9622,0.0238,0.9155,1.0089,-1.5859,3279,474

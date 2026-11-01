@@ -1,0 +1,10 @@
+prediction,model_value,estimate,std_error,ci_low,ci_high,t_vs_model,n_obs,n_firms
+"R&D elasticity to revenue, across firms (industry and year effects)",1.0000,0.8015,0.0130,0.7760,0.8270,-15.2513,15707,2356
+"R&D elasticity to revenue, within firms over time (firm and year effects)",1.0000,0.5555,0.0266,0.5033,0.6076,-16.6998,15457,2106
+Change in log R&D on last year's log R&D (random walk),0.0000,-0.0009,0.0014,-0.0037,0.0020,-0.5976,12854,2055
+"Growth on log revenue, smaller half of firms (survivors)",,0.0036,0.0022,-0.0008,0.0080,,17610,3404
+"Growth on log revenue, larger half of firms (Gibrat's law)",0.0000,-0.0093,0.0014,-0.0120,-0.0066,-6.7496,17611,2368
+"Elasticity of growth volatility to size, firm level (log absolute deviation on log revenue)",-0.5000,-0.1523,0.0048,-0.1617,-0.1428,71.8636,35221,5092
+"Same, growth not trimmed",-0.5000,-0.1830,0.0052,-0.1932,-0.1728,60.8889,35941,5174
+"Elasticity of growth volatility to size, 20 size bins (bootstrap)",-0.5000,-0.1251,0.0043,-0.1336,-0.1173,87.6146,35221,5092
+"Same, with a tail-robust spread (IQR / 1.349)",-0.5000,-0.1708,,,,,35221,5092

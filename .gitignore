@@ -1,0 +1,16 @@
+# SEC Financial Statement Data Sets: quarterly zips, about 5.5 GB, fetched by src/build_sec_panel.py
+data/raw/sec/
+*.part
+
+# Secrets
+*.key
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# System
+.DS_Store

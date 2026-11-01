@@ -1,0 +1,17 @@
+series,measure,pct_change_1980s_to_2010s
+All employer firms,death_rate_age1,-0.1996
+All employer firms,entry_rate,-0.3197
+All employer firms,mu,-0.2617
+All employer firms,mu_if_lambda_zero,-0.2206
+All employer firms,mu_if_no_entry,-0.2720
+All employer firms,lam,-0.2456
+All employer firms,entrant_share,-0.2253
+All employer firms,expected_life,0.4682
+Manufacturing,death_rate_age1,-0.1796
+Manufacturing,entry_rate,-0.4582
+Manufacturing,mu,-0.2163
+Manufacturing,mu_if_lambda_zero,-0.1949
+Manufacturing,mu_if_no_entry,-0.2311
+Manufacturing,lam,-0.1600
+Manufacturing,entrant_share,-0.7099
+Manufacturing,expected_life,0.8497
